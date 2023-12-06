@@ -1,5 +1,9 @@
 # Carbon
 Cheap Aware Clone MongoDB 🤡
-CR - Made by Seek Yaho Sikey 
+
+Carbon Support : .gg/carbonbot
+
+My Socials : https://feds.lol/aimgod
 
 Clone of Fastest Antinuke bot Aware 
+Anyways me myself was the developer of Aware 🙏😅
