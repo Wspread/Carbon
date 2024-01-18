@@ -1,9 +1,30 @@
 # Carbon
 Cheap Aware Clone MongoDB 🤡
 
-Carbon Support : .gg/carbonbot
+# Installation
 
-My Socials : https://feds.lol/aimgod
+First make sure you have installed NodeJS 
 
-Clone of Fastest Antinuke bot Aware 
-Anyways me myself was the developer of Aware 🙏😅
+For windows = https://nodejs.org/en
+For Ubuntu = ```sudo apt-get install nodejs```
+For Linux Debians = ```sudo yum install nodejs``` 
+
+You have to install npm seperately in Ubuntu OS & Linix 
+For Ubuntu = ```sudo apt install npm```
+For Linux = ```sudo yum install npm```  
+
+Now , Install the requirements
+```npm install package.json``` 
+
+Then To run the code 
+```node index.js``` 
+
+# Configuration 
+Navigate to config.json and update them 
+You would Require the following things
+
+- Discord Bot Token 
+- DBL ( TOP.GG TKN ) ( Not Necessary) 
+- MONGO DB URI = https://mongodb.com/
+
+If you face issues while running / installation join https://discord.gg/79dev
