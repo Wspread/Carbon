@@ -3,9 +3,9 @@ Aware Clone ( Uses Mongo DB )
 
 # Support 
 
-Support : https://discord.gg/79dev
-My Socials : https://feds.lol/aimgod
-Aware Support : https://discord.gg/aware 
+- Support : https://discord.gg/79dev
+- My Socials : https://feds.lol/aimgod
+- Aware Support : https://discord.gg/aware 
 
 # Installation 
 
